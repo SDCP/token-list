@@ -1,0 +1,25 @@
+{
+  "name": "SDC Protocol",
+  "logoURI": "https://matrix.sdcpstaking.com/sdcp.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xc59ddee8be619680a3b9489eb864b30270f2070d",
+      "name": "SDC Protocol",
+      "symbol": "SDCP",
+      "decimals": 8,
+      "logoURI": "https://matrix.sdcpstaking.com/sdcp.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
